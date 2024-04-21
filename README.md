@@ -9,5 +9,5 @@ This project used R to pre-process, fit, and evaluated the following machine lea
 5) Support Vector Machine
 6) Artificial Neural Network
 
-Pre-processing involved the removal of outliers and imputation of missing values in addition to formatting the data according to each model's requirements. New relevant features were added and the optimal combination of them was selected using a feature selection algorith. 
+Pre-processing involved the removal of outliers and imputation of missing values in addition to formatting the data according to each model's requirements. New relevant features were added and the optimal combination of them was selected using a feature selection algorithm. 
 Performance metrics of the different models were evaluated and the best model was selected at the end. 
